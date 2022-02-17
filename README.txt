@@ -8,4 +8,4 @@ Currently, the tables are not yet handled as pandas is seemingly unable to parse
 
 The widgets are placed into a raw, unorganized and minimally structured dataframe called "silver", and then the date-driven data is properly organized into a hierarchical dataframe called "gold".
 
-An end user cmd application has been started (Grapher.py) to allow ease of selecting, manipulating, and displaying this data, but I'm not so motivated by front-end programming as of 2022-02-16.
+An end user cmd application has been started (Grapher.py) to allow ease of selecting, manipulating, and displaying this data, but I'm not so motivated by front-end programming as of 2022-02-16
